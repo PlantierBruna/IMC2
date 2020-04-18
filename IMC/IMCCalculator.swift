@@ -40,7 +40,7 @@ class IMCCalculator {
         switch value {
         case 0..<16:
             imcResult = .thinnes
-            imageName = "so o po"
+            imageName = "magreza"
         case 16..<18.5:
             imcResult = .under
             imageName = "abaixo"
